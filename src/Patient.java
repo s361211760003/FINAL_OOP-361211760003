@@ -70,6 +70,7 @@ public class Patient {
         this.p_blood_result = p_blood_result;
     }
 
+
     //tostring
 
     @Override
